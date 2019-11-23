@@ -1,0 +1,5 @@
+1 (1)PHD Social Mining Finance(Preprocessing) Cleaning_Feature_Eng_Preprocess
+2 (2)PHD Social Mining Finance(Visualization) Visualization
+3 (3)Simple SF Model                          Model
+4 (4)Sentiment Analysis                       Sentiment Model
+5 (5)Groupby_Merge_Train_Test_Sentiment_Alpha Groupby Merge Alpha Sentiment Model
